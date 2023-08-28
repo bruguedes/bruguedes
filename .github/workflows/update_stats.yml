@@ -1,17 +1,27 @@
-name: Waka Readme
+name: WakaTime
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  wakatime:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install wakatime
+
+      - name: Run WakaTime
+        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
@@ -20,3 +30,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           COMMIT_BY_ME: "False"
           COMMIT_SINGLE: "False"
+        run: wakatime --api-key ${{ secrets.WAKATIME_API_KEY }} --show-projects $SHOW_PROJECTS --show-loc-chart $SHOW_LOC_CHART --show-os $SHOW_OS --show-timezone $SHOW_TIMEZONE --show-days-of-week $SHOW_DAYS_OF_WEEK --commit-by-me $COMMIT_BY_ME --commit-single $COMMIT_SINGLE
