@@ -22,7 +22,7 @@ jobs:
 
       - name: Run WakaTime
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_OS: "False"
@@ -30,4 +30,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           COMMIT_BY_ME: "False"
           COMMIT_SINGLE: "False"
-        run: wakatime --api-key ${{ secrets.WAKATIME_API_KEY }} --show-projects $SHOW_PROJECTS --show-loc-chart $SHOW_LOC_CHART --show-os $SHOW_OS --show-timezone $SHOW_TIMEZONE --show-days-of-week $SHOW_DAYS_OF_WEEK --commit-by-me $COMMIT_BY_ME --commit-single $COMMIT_SINGLE
+        run: wakatime --show-projects $SHOW_PROJECTS --show-loc-chart $SHOW_LOC_CHART --show-os $SHOW_OS --show-timezone $SHOW_TIMEZONE --show-days-of-week $SHOW_DAYS_OF_WEEK --commit-by-me $COMMIT_BY_ME --commit-single $COMMIT_SINGLE
