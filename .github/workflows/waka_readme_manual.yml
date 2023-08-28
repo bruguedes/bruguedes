@@ -31,7 +31,3 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           COMMIT_BY_ME: "False"
           COMMIT_SINGLE: "False"
-          HIDE_PROJECT_FOLDER: "true"
-          HIDE_BRANCH_NAMES: "true"
-          HIDE_FILE_NAMES: "true"
-          OUTPUT_FORMAT: "json"
