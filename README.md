@@ -6,7 +6,7 @@
 </div>
 <div>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C395%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,14 +51,14 @@ Sunday                   42 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Elixir                   22 hrs 5 mins       ████████████████████████░   94.15 % 
-Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Elixir                   21 hrs 39 mins      █████████████████████████   98.24 % 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -74,7 +74,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 23:28:16 UTC
+ Last Updated on 15/11/2024 23:28:22 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
