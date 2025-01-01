@@ -6,7 +6,7 @@
 </div>
 <div>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C496%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C498%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,7 +16,7 @@
 
 > 📦 36.8 kB Used in GitHub's Storage 
  > 
-> 🏆 322 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,8 +51,7 @@ Sunday                   42 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Go                       2 hrs 46 mins       █████████████████████████   99.95 % 
-Elixir                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Go                       2 hrs 46 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
@@ -74,7 +73,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 23:26:25 UTC
+ Last Updated on 01/01/2025 23:28:00 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
