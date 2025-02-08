@@ -6,7 +6,7 @@
 </div>
 <div>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C509%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C512%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,6 +15,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 36.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,14 +51,14 @@ Sunday                   42 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Other                    8 hrs 1 min         ██████████████░░░░░░░░░░░   55.61 % 
-Elixir                   6 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.39 % 
+Elixir                   11 hrs 44 mins      ██████████████░░░░░░░░░░░   57.47 % 
+Other                    8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -72,7 +74,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 23:26:36 UTC
+ Last Updated on 08/02/2025 23:27:23 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
