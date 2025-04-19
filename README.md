@@ -6,7 +6,7 @@
 </div>
 <div>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C642%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C645%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,7 +16,7 @@
 
 > 📦 36.9 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2025
+> 🏆 61 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,20 +27,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26520 commits       ████████████░░░░░░░░░░░░░   46.46 % 
-🌆 Daytime                28377 commits       ████████████░░░░░░░░░░░░░   49.72 % 
-🌃 Evening                2120 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+🌞 Morning                26520 commits       ████████████░░░░░░░░░░░░░   46.45 % 
+🌆 Daytime                28382 commits       ████████████░░░░░░░░░░░░░   49.72 % 
+🌃 Evening                2126 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   9850 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  13446 commits       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Wednesday                10842 commits       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Thursday                 10580 commits       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Friday                   11944 commits       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Saturday                 371 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Monday                   9850 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Tuesday                  13446 commits       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Wednesday                10842 commits       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Thursday                 10586 commits       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Friday                   11944 commits       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Saturday                 376 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Sunday                   45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
@@ -51,17 +51,17 @@ Sunday                   45 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Go                       5 hrs 25 mins       ███████████████░░░░░░░░░░   59.57 % 
-Elixir                   2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Go                       7 hrs 10 mins       █████████████████░░░░░░░░   67.29 % 
+Elixir                   2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -77,7 +77,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2025 23:29:13 UTC
+ Last Updated on 19/04/2025 23:30:29 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
