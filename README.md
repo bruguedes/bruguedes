@@ -27,8 +27,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26520 commits       ████████████░░░░░░░░░░░░░   46.44 % 
-🌆 Daytime                28394 commits       ████████████░░░░░░░░░░░░░   49.72 % 
+🌞 Morning                26521 commits       ████████████░░░░░░░░░░░░░   46.43 % 
+🌆 Daytime                28397 commits       ████████████░░░░░░░░░░░░░   49.72 % 
 🌃 Evening                2136 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
@@ -37,8 +37,8 @@
 ```text
 Monday                   9850 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 Tuesday                  13446 commits       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Wednesday                10842 commits       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Thursday                 10592 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Wednesday                10845 commits       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Thursday                 10593 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
 Friday                   11944 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 Saturday                 390 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 Sunday                   47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
@@ -51,17 +51,17 @@ Sunday                   47 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Go                       7 hrs 10 mins       █████████████████░░░░░░░░   67.29 % 
-Elixir                   2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Go                       7 hrs 10 mins       █████████████████░░░░░░░░   68.56 % 
+Elixir                   2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -77,7 +77,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 23:30:22 UTC
+ Last Updated on 22/04/2025 23:31:52 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
