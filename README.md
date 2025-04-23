@@ -10,13 +10,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 36.9 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2025
+> 🏆 90 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,21 +27,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26521 commits       ████████████░░░░░░░░░░░░░   46.43 % 
-🌆 Daytime                28397 commits       ████████████░░░░░░░░░░░░░   49.72 % 
-🌃 Evening                2136 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+🌞 Morning                26420 commits       ████████████░░░░░░░░░░░░░   46.37 % 
+🌆 Daytime                28306 commits       ████████████░░░░░░░░░░░░░   49.68 % 
+🌃 Evening                2184 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+🌙 Night                  70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   9850 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Tuesday                  13446 commits       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Wednesday                10845 commits       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 10593 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Friday                   11944 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Saturday                 390 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Sunday                   47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Monday                   9807 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Tuesday                  13428 commits       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Wednesday                10812 commits       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Thursday                 10568 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Friday                   11905 commits       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Saturday                 407 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Sunday                   53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
@@ -51,17 +51,17 @@ Sunday                   47 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Go                       7 hrs 10 mins       █████████████████░░░░░░░░   68.56 % 
-Elixir                   2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Go                       8 hrs 18 mins       █████████████████░░░░░░░░   68.36 % 
+Elixir                   2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -77,7 +77,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2025 23:31:52 UTC
+ Last Updated on 23/04/2025 23:31:01 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
