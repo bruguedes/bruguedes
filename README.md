@@ -6,7 +6,7 @@
 </div>
 <div>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C646%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C650%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,19 +27,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26420 commits       ████████████░░░░░░░░░░░░░   46.37 % 
-🌆 Daytime                28306 commits       ████████████░░░░░░░░░░░░░   49.68 % 
+🌞 Morning                26415 commits       ████████████░░░░░░░░░░░░░   46.37 % 
+🌆 Daytime                28300 commits       ████████████░░░░░░░░░░░░░   49.68 % 
 🌃 Evening                2184 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 🌙 Night                  70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   9807 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  13428 commits       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Wednesday                10812 commits       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Thursday                 10568 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Friday                   11905 commits       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Monday                   9804 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Tuesday                  13425 commits       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Wednesday                10813 commits       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Thursday                 10565 commits       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Friday                   11902 commits       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
 Saturday                 407 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 Sunday                   53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
@@ -51,17 +51,16 @@ Sunday                   53 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Go                       8 hrs 18 mins       █████████████████░░░░░░░░   68.36 % 
-Elixir                   2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Go                       6 hrs 49 mins       ██████████████████░░░░░░░   70.31 % 
+Elixir                   2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 8 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -77,7 +76,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2025 23:31:01 UTC
+ Last Updated on 24/04/2025 23:32:10 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
