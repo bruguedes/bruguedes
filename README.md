@@ -6,7 +6,7 @@
 </div>
 <div>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C651%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C655%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,16 +51,16 @@ Sunday                   53 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Rio_Branco
 
 💬 Programming Languages: 
-Elixir                   5 hrs 34 mins       █████████████░░░░░░░░░░░░   52.30 % 
-Go                       4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Elixir                   7 hrs 9 mins        █████████████████░░░░░░░░   67.84 % 
+Go                       3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Elixir** 
@@ -76,7 +76,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2025 23:32:12 UTC
+ Last Updated on 26/04/2025 23:29:23 UTC
 <!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block"><br>
